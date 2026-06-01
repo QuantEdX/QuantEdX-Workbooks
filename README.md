@@ -15,7 +15,7 @@ This repository contains the public Jupyter `.ipynb` workbooks used by the Quant
 Use this URL pattern:
 
 ```text
-https://colab.research.google.com/github/QuantEdX/QuantEdX-Workbooks/blob/main/<relative-workbook-path>
+https://colab.research.google.com/github/QuantEdX/QuantEdX-Workbooks/blob/main/{relative-workbook-path}
 ```
 
 Example:
